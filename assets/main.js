@@ -193,6 +193,12 @@ const renderResume = () => {
       title: "Step into life",
       content: " When I first started away from home to continue my education, it was very difficult at first when I had to take care of everything for my life, but fortunately, I had investment capital from my family. Words from my family made me feel less bewildered ^_^."
     },
+     {
+      year: 2023,
+      subtitle: "Self growth",
+      title: "College freshman",
+      content: " Entering the university gate, I met many more acquaintances, made many friends and also experienced many sad and happy stories. Up to this point, I am still happy with my choice of FPT university. Here I met a very cute and caring friend. This friend made me feel good when I went out with her and there was also a time when she made me sad because he canceled his schedule to go out with me. but it's okay now everything's fine I'm happy to play with her hihi ^_^."
+    },
   ]
   const resumeEdu = document.querySelector('.js--edu')
   const resumeLife = document.querySelector('.js--life')
