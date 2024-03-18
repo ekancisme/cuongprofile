@@ -172,6 +172,12 @@ const renderResume = () => {
       title: "ContinueTry yourself at FPT University",
       content: "Currently studying to become a global citizen with an important appointment next year with majoring in information technology"
   },
+      {
+    year: 2024,
+    subtitle: 'This year',
+    title: "Study major 1 at FPT University",
+    content: "Bố m học ngu vcl luôn chịu :((("
+  },
   ]
 
   const resumeLifeArr = [
