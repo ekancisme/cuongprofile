@@ -203,7 +203,13 @@ const renderResume = () => {
       year: 2023,
       subtitle: "Self growth",
       title: "College freshman",
-      content: " Entering the university gate, I met many more acquaintances, made many friends and also experienced many sad and happy stories. Up to this point, I am still happy with my choice of FPT university. Here I met a very cute and caring friend. This friend made me feel good when I went out with her and there was also a time when she made me sad because she canceled her schedule go out with me. but it's okay now everything's fine I'm happy to play with her. Let's just be happy, maybe the future can go further togetherhihi ^_^."
+      content: " Entering the university gate, I met many more acquaintances, made many friends and also experienced many sad and happy stories. Up to this point, I am still happy with my choice of FPT university."
+    },
+    {
+      year: 2024,
+      subtitle: "Start majoring",
+      title: "Second year university student",
+      content: " It's starting to feel difficult when I have to learn too many skills and more languages ​​at the same time. Sometimes I feel pressured but I still want to do my best with the field of study I have chosen."
     },
   ]
   const resumeEdu = document.querySelector('.js--edu')
